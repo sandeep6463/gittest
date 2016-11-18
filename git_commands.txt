@@ -1,0 +1,13 @@
+git init
+git clone URLRemoteServer
+git add fileName
+git checkout -- fileName
+git reset HEAD -- fileName
+git commit / git commit -m ""
+git mv oldName NewName
+git rm fileName
+git push origin branchName
+git pull origin branchName
+git log
+git checkout -b newBranchName
+git checkou branchName
